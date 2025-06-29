@@ -5,7 +5,7 @@ node_modules/
 *.log
 
 # Frontend
-frontend/front-end/node_modules/
+frontend/node_modules/
 frontend/.env
 frontend/dist/
 
@@ -15,7 +15,6 @@ backend/.env
 
 # Logs and temp files
 logs/
-*.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
